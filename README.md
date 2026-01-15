@@ -1,6 +1,6 @@
 # LinkMC
 
-🇬🇧 English | 🇨🇳 [简体中文](./README.md)
+🌍 English | [简体中文](./README.md)
 
 一个基于 Python 的高度模块化、可扩展的 QQ 群与 Minecraft 服务器双向互通中枢。
 
