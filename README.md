@@ -193,4 +193,4 @@ python main.py
 
 ## 📄 许可证
 
-[MPL 2.0](LICENSE)
+[MPL-2.0](LICENSE)
