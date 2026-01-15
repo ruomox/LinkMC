@@ -113,9 +113,9 @@ style Mapper_Node fill:#f9f,stroke:#333,stroke-width:2px,color:#000
 
 1.  **Python 3.10+** (推荐使用较新版本以获得更好的异步性能)
 2.  **Minecraft 服务器**
-    *   已安装 [鹊桥 (QueQiao)](https://github.com/Taliss0/QueQiao) 插件 (或其他兼容该协议的 Websocket 插件)。
+    *   已安装 [鹊桥 (QueQiao)](https://github.com/17TheWord/QueQiao) 插件 (或其他兼容该协议的 Websocket 插件)。
 3.  **QQ 机器人环境**
-    *   运行 [NapCat](https://github.com/NapNeko/NapCat-QQ) 或其他兼容 OneBot 11 协议的框架。
+    *   运行 [NapCat](https://github.com/NapNeko/NapCatQQ) 或其他兼容 OneBot 11 协议的框架。
 
 ## 🚀 快速开始
 
